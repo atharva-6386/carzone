@@ -1,16 +1,16 @@
 {
   "name": "carzone",
   "version": "1.0.0",
-  "main": "sw.js",
+  "main": "index.html",
   "scripts": {
-    "build": "gulp build",
     "dev": "gulp",
+    "build": "gulp build",
     "start": "gulp"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["car", "dealership", "automotive"],
+  "author": "atharva-6386",
   "license": "ISC",
-  "description": "",
+  "description": "Premium car dealership website",
   "devDependencies": {
     "browser-sync": "^3.0.4",
     "gulp": "^5.0.1",
